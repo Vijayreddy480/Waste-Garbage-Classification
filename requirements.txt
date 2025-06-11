@@ -1,6 +1,6 @@
-numpy==2.3.0
-opencv_python==4.11.0.86
-Pillow==11.2.1
-streamlit==1.45.0
-tf_nightly==2.20.0.dev20250605
+numpy==1.24.4
+opencv-python==4.8.1.78
+Pillow==9.5.0
+streamlit==1.25.0
+tensorflow==2.12.0         # or remove if you're not using TF
 ultralytics==8.3.150
