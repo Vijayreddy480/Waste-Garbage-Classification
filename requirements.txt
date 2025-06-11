@@ -1,0 +1,6 @@
+numpy==2.3.0
+opencv_python==4.11.0.86
+Pillow==11.2.1
+streamlit==1.45.0
+tf_nightly==2.20.0.dev20250605
+ultralytics==8.3.150
