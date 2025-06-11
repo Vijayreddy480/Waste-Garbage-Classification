@@ -4,4 +4,3 @@ Pillow==11.2.1
 streamlit==1.45.0
 tf_nightly==2.20.0.dev20250605
 ultralytics==8.3.150
-tensorflow==2.13.0
